@@ -1,13 +1,25 @@
 evolution_trigger_id,local_language_id,name
+1,1,レベルアップ
+1,2,reberuappu
 1,5,Montée de niveau
 1,6,Levelaufstieg
 1,9,Level up
+1,11,レベルアップ
+2,1,こうかん
+2,2,koukan
 2,5,Échange
 2,6,Tausch
 2,9,Trade
+2,11,交換
+3,1,アイテムのしよう
+3,2,aitemu no shiyou
 3,5,Utilisation d'un objet
 3,6,Gegenstand nutzen
 3,9,Use item
+3,11,アイテムの使用
+4,1,だっぴ
+4,2,dappi
 4,5,Place dans l'équipe et une Poké Ball
 4,6,Platz im Team und ein Pokéball
 4,9,Shed
+4,11,脱皮
